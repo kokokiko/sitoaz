@@ -79,6 +79,11 @@ box-shadow:         3px 3px 12px 0px rgba(50, 50, 50, 0.31);
     border-left: 1px solid #E2E2E2;
     height:93.6%;
   
+    background-image: url("1.jpg");
+    background-repeat:no-repeat;
+    background-size:contain; 
+    background-position:bottom;
+    
 }
 #menu a{
     text-decoration:none;
@@ -108,17 +113,7 @@ padding-bottom:30px;
 
 
 
-#mostra{    
-    position:absolute;
-    bottom:0px;
-    background-image: url("1.jpg");
-    background-repeat:no-repeat;
-    background-size:contain; 
-    height:50%;
-    width:100%;
-    min-height: 50px;
-    min-width:60px
-}
+
 
 
 
