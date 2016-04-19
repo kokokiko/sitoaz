@@ -63,6 +63,7 @@ color:#FFF;
     background-color: #333;
   transition: background 0.5s linear;
 }
+
 #menu{
 -webkit-box-shadow: 3px 3px 12px 0px rgba(50, 50, 50, 0.31);
 -moz-box-shadow:    3px 3px 12px 0px rgba(50, 50, 50, 0.31);
