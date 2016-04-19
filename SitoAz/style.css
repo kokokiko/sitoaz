@@ -107,15 +107,17 @@ padding-bottom:30px;
 
 
 
-#mostra img{
-    height:auto;
-    width:80%;
-    
-}
+
 #mostra{    
     position:absolute;
     bottom:0px;
+    background-image: url("1.jpg");
+    background-repeat:no-repeat;
+    background-size:contain; 
+    height:50%;
     width:100%;
+    min-height: 50px;
+    min-width:60px
 }
 
 
