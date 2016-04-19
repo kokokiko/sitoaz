@@ -78,10 +78,7 @@ box-shadow:         3px 3px 12px 0px rgba(50, 50, 50, 0.31);
     border-bottom: 1px solid #E2E2E2;
     border-left: 1px solid #E2E2E2;
     height:93.6%;
-    background-image: url(1.jpg);
-    background-repeat:no-repeat;
-    background-position:bottom;
-    background-size:contain;
+  
 }
 #menu a{
     text-decoration:none;
@@ -115,6 +112,16 @@ padding-bottom:30px;
     top:10px;
     border: 1px solid #E2E2E2;
 }
+
+#mostra{
+    height:48.5%;
+    background-image: url(1.jpg);
+    background-repeat:no-repeat;
+    background-position:bottom;
+    background-size:contain;
+}
+
+
 #search:focus{outline: none;
 box-shadow:inset 0 0 1px 1px rgba(136, 136, 136, 0.19);}
 #search:hover{
