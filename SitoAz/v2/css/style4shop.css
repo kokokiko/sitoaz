@@ -78,7 +78,7 @@ box-shadow:         3px 3px 12px 0px rgba(50, 50, 50, 0.31);
     border-bottom: 1px solid #E2E2E2;
     border-left: 1px solid #E2E2E2;
     height:93.6%;
-    background-image: url(img/1.jpg);
+    background-image: url(../img/1.jpg);
     background-repeat:no-repeat;
     background-position:bottom;
     background-size:contain;
@@ -176,7 +176,7 @@ padding-bottom:30px;
     background-repeat:repeat-x;
     background-position:bottom;
     transition: background 0.8s linear;
-    background-image: url("img/sn2.png");
+    background-image: url("../img/sn2.png");
     z-index:-1;
 }
 #tmp{

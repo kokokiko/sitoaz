@@ -80,7 +80,7 @@ box-shadow:         3px 3px 12px 0px rgba(50, 50, 50, 0.31);
     border-left: 1px solid #E2E2E2;
     height:93.6%;
   
-    background-image: url("img/1.jpg");
+    background-image: url("../img/1.jpg");
     background-repeat:no-repeat;
     background-size:contain; 
     background-position:bottom;
